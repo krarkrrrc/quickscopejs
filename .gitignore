@@ -1,0 +1,7 @@
+*.swp
+*.swo
+*.js
+*.vim
+target/
+
+

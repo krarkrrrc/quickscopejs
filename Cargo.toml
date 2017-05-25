@@ -1,0 +1,7 @@
+[package]
+name = "quickscopejs"
+version = "0.1.0"
+authors = ["Chris Davies <chris.greentown@gmail.com>"]
+
+[dependencies]
+regex = "0.2"
